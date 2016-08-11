@@ -1,3 +1,7 @@
 Readme.txt
 Git is a version control system.
 Git is free software.
+
+---change
+add new text 
+
