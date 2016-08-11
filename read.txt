@@ -11,3 +11,5 @@ distributed under the GPL
 --test email
 send something
 
+
+--test git add
