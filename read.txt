@@ -15,3 +15,7 @@ send something
 --test git add
 
 -- test git add again
+
+撤销更改
+
+git checkout --****
