@@ -20,5 +20,5 @@ send something
 
 git checkout --****
 
-create a new branch is quick
+create a new branch is quick & simple
 
