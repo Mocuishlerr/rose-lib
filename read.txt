@@ -19,3 +19,6 @@ send something
 撤销更改
 
 git checkout --****
+
+create a new branch is quick
+
