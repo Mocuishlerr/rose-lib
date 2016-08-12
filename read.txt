@@ -22,3 +22,4 @@ git checkout --****
 
 create a new branch is quick & simple
 
+fast forward
